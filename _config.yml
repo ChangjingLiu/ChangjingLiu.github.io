@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Changjing Liu (刘 常靖)"
+title                    : "Changjing Liu (刘常靖)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "Changjing-Liu/ChangjingLiu.github.io"
 author:
   # Biographic information
   avatar           : "my.png"
-  name             : "Changjing Liu (刘 常靖)"
+  name             : "Changjing Liu (刘常靖)"
   pronouns         : # example: "she/her"  
-  bio              : "M.Sc. in EE"
-  location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  bio              : "PHD in EE"
+  location         : "Hongkong"
+  employer         : "The Chinese University of Hong Kong"
   uri              : # URL
   email            : "changjing.liu@qq.com" 
 
