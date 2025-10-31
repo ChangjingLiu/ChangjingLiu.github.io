@@ -31,6 +31,8 @@ If you have any questions, don't hesitate to contact me via changjing.liu@qq.com
 
 # Educations
 ---
+**Sept. 2025 --** 
++ Electronic Engineering Department, The Chinese University of HongKong
 
 **Sept. 2021 - Mar. 2024 (expected)** 
 + <img class="svg" src="/images/sjtu_logo.png" width="35pt"> School of Electronic Information & Electrical Engineering, Shanghai Jiao Tong University 
