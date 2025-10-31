@@ -10,10 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Changjing Liu (刘常靖), a master student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), Shanghai, China, welcome to my homepage!
-Right now I major in instrument science and technology.
-My current research interests mainly focus on **medical robotics and medical simulation**, supervised by [Prof. Zhiwu Wang](http://www.ie.sjtu.edu.cn/Data/View/260) and [Prof. Guozheng Yan](https://baike.baidu.com/item/%E9%A2%9C%E5%9B%BD%E6%AD%A3/437103).
+Hello, my name is Changjing Liu (刘常靖), currently a PhD student at The Chinese University of Hong Kong (CUHK).
+welcome to my homepage!
+My current research interests mainly focus on **medical robotics and perception/simulation algorithm**.
 
+Previously, I was a master’s student at Shanghai Jiao Tong University (SJTU), Shanghai, China, majoring in Instrument Science and Technology.
+My master’s research focused on medical robotics and medical simulation, supervised by [Prof. Zhiwu Wang](http://www.ie.sjtu.edu.cn/Data/View/260)  and [Prof. Guozheng Yan](https://baike.baidu.com/item/%E9%A2%9C%E5%9B%BD%E6%AD%A3/437103).
 Prior to this, I graduated from [Tongji University](https://www.tongji.edu.cn/) in Shanghai, China, in 2021 with a bachelor's degree in mechanical engineering (Mechatronics), and seized the award of the First Prize Scholarship at Tongji University (Top 5%). 
 During my undergraduate studies, I mainly focused on **drone visual tracking** under the supervision of [Prof. Changhong Fu](https://vision4robotics.github.io/authors/changhong-fu/) in [Vision4Rbotics Group](https://vision4robotics.github.io/).
 
