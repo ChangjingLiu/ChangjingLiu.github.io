@@ -19,7 +19,7 @@ My master’s research focused on medical robotics and medical simulation, super
 Prior to this, I graduated from [Tongji University](https://www.tongji.edu.cn/) in Shanghai, China, in 2021 with a bachelor's degree in mechanical engineering (Mechatronics), and seized the award of the First Prize Scholarship at Tongji University (Top 5%). 
 During my undergraduate studies, I mainly focused on **drone visual tracking** under the supervision of [Prof. Changhong Fu](https://vision4robotics.github.io/authors/changhong-fu/) in [Vision4Rbotics Group](https://vision4robotics.github.io/).
 
-I'm looking for a job or PhD opportunity in the field of **medical simulation, robotics**, etc.
+I'm looking for collaboration opportunities in the field of **robotics and perception/simulation algorithm**, etc.
 Click [here](https://changjingliu.github.io/assets/resume_changjingliu_english.pdf) to find my up-to-date CV.
 
 If you have any questions, don't hesitate to contact me via changjing.liu@qq.com or changjing.liu@outlook.com
