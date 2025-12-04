@@ -12,7 +12,7 @@ redirect_from:
 
 Hello, my name is Changjing Liu (刘常靖), currently a PhD student at The Chinese University of Hong Kong (CUHK).
 welcome to my homepage!
-My current research interests mainly focus on **medical robotics and perception/simulation algorithm**.
+My current research interests mainly focus on **medical robotics and perception/simulation algorithm**, supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) .
 
 Previously, I was a master’s student at Shanghai Jiao Tong University (SJTU), Shanghai, China, majoring in Instrument Science and Technology.
 My master’s research focused on medical robotics and medical simulation, supervised by [Prof. Zhiwu Wang](http://www.ie.sjtu.edu.cn/Data/View/260)  and [Prof. Guozheng Yan](https://baike.baidu.com/item/%E9%A2%9C%E5%9B%BD%E6%AD%A3/437103).
