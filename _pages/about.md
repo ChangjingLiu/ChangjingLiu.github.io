@@ -34,7 +34,7 @@ If you have any questions, don't hesitate to contact me via changjing.liu@qq.com
 **Sept. 2025 --** 
 + Electronic Engineering Department, The Chinese University of HongKong
 
-**Sept. 2021 - Mar. 2024 (expected)** 
+**Sept. 2021 - Mar. 2024** 
 + <img class="svg" src="/images/sjtu_logo.png" width="35pt"> School of Electronic Information & Electrical Engineering, Shanghai Jiao Tong University 
 
 **Sept. 2017 - Aug. 2021**
@@ -43,6 +43,15 @@ If you have any questions, don't hesitate to contact me via changjing.liu@qq.com
 <span class='anchor' id='work_experience'></span>
 
 # Work experience
+---  
+**Jul. 2024 - Aug. 2025**
+
+Autopilot Software Engineer, *Huawei Technologies Co., Ltd.* <img src='/images/huawei.jpeg' width="50pt">
++ Developed Huawei's proprietary end-to-end simulation platform for ADS 4.0 (Advanced Driving System).
++ Researched evaluation algorithms for end-to-end autonomous driving systems in simulated environments.
++ Participated in the development of end-to-end simulation framework based on 3D Gaussian Splatting (3DGS).
+
+---  
 ---  
 **Jul. 2023 - Sept. 2023**
 
